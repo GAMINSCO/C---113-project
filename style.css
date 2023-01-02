@@ -1,0 +1,23 @@
+body {
+    color: black;
+    background-color: yellow;
+    font-size: 22px;
+}
+
+.btn {
+    border-radius: 20px;
+    width: 30%;
+    height: 35px;
+    border-color: black;
+    border-width: 1px;
+}
+
+h1 {
+    font-size: 32px !important;
+}
+
+canvas {
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+}
